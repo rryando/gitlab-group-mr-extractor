@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Add new frontend feature for user profile",
+    "source_branch": "frontend_profile",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new feature to the frontend dashboard",
+    "source_branch": "frontend_dashboard",
+    "classification": "frontend"
+  },
+  {
+    "title": "Edit copy, Text changes, Layout Changes",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Revamp UI, Refactor UX",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new frontend feature for user profile",
+    "source_branch": "frontend_profile",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new feature to the frontend dashboard",
+    "source_branch": "frontend_dashboard",
+    "classification": "frontend"
+  },
+  {
+    "title": "Edit copy, Text changes, Layout Changes",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Revamp UI, Refactor UX",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new frontend feature for user profile",
+    "source_branch": "frontend_profile",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new feature to the frontend dashboard",
+    "source_branch": "frontend_dashboard",
+    "classification": "frontend"
+  },
+  {
+    "title": "Edit copy, Text changes, Layout Changes",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Revamp UI, Refactor UX",
+    "source_branch": "frontend",
+    "classification": "frontend"
+  },
+  {
+    "title": "Add new frontend feature for user profile",
+    "source_branch": "frontend_profile",
+    "classification": "frontend"
+  },
+  {
+    "title": "Backend development for product management",
+    "source_branch": "backend_product",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new frontend feature for product catalog",
+    "source_branch": "frontend_catalog",
+    "classification": "frontend"
+  },
+  {
+    "title": "Fix a bug in the backend order processing",
+    "source_branch": "backend_order",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new feature to the frontend checkout",
+    "source_branch": "frontend_checkout",
+    "classification": "frontend"
+  },
+  {
+    "title": "Backend development for user authentication",
+    "source_branch": "backend_auth",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new frontend feature for user profile",
+    "source_branch": "frontend_profile",
+    "classification": "frontend"
+  },
+  {
+    "title": "Fix a bug in the backend API",
+    "source_branch": "backend_fix",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new feature to the frontend dashboard",
+    "source_branch": "frontend_dashboard",
+    "classification": "frontend"
+  },
+  {
+    "title": "Backend development for product management",
+    "source_branch": "backend_product",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new frontend feature for product catalog",
+    "source_branch": "frontend_catalog",
+    "classification": "frontend"
+  },
+  {
+    "title": "Fix a bug in the backend order processing",
+    "source_branch": "backend_order",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new feature to the frontend checkout",
+    "source_branch": "frontend_checkout",
+    "classification": "frontend"
+  },
+  {
+    "title": "Backend development for payment gateway integration",
+    "source_branch": "backend_payment",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new frontend feature for payment options",
+    "source_branch": "frontend_payment",
+    "classification": "frontend"
+  },
+  {
+    "title": "Fix a bug in the backend shipping calculation",
+    "source_branch": "backend_shipping",
+    "classification": "backend"
+  },
+  {
+    "title": "Add new feature to the frontend shopping cart",
+    "source_branch": "frontend_cart",
+    "classification": "frontend"
+  },
+  {
+    "title": "Backend development for email notification system",
+    "source_branch": "backend_notification",
+    "classification": "backend"
+  }
+]

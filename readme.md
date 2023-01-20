@@ -8,6 +8,8 @@ This script is used to extract merge requests from a specific group in GitLab by
 - requests library (can be installed using `pip install requests`)
 - pandas library (can be installed using `pip install pandas`)
 
+- if using text classification (`python3 -m pip install scikit-learn`)
+
 ## Usage
 
 1. Replace the placeholder values in the script with your own information:
